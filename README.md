@@ -1,2 +1,2 @@
-# Jogo-Shooter
-Joguinho de tiro
+# Jogo Shooter
+Joguinho de tiro usando HTML, CSS e JavaScript
